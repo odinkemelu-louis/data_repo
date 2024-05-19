@@ -1,0 +1,2 @@
+# just a random practice material, incase anyone comes in contact with this in future
+but be sure the ipynb file contains some good data modelling process
